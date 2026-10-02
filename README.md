@@ -769,7 +769,7 @@ Contributions are welcome.
 ### 1. Fork the repository
 
 ```bash
-git fork <https://github.com/raghavpareek0103>
+git fork <https://github.com/raghavpareek0103/HireHub>
 ```
 
 ### 2. Create a feature branch
